@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LooperShowView">
+        <attr name="ls_textcolor" format="color"></attr>
+        <attr name="ls_textsize" format="float"/>
+        <attr name="ls_show_time" format="integer"/>
+        <attr name="ls_switch_interval" format="integer"/>
+    </declare-styleable>
+</resources>
